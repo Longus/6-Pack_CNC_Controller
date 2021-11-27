@@ -1,7 +1,11 @@
 
 # 6-Pack Grbl_ESP32 CNC Controller
 
+A fully populated board:
+
 <img src="http://www.buildlog.net/blog/wp-content/uploads/2020/07/20200711_120633.jpg" width="600">
+
+A bare board:
 
 <img src="http://www.buildlog.net/blog/wp-content/uploads/2020/07/20200711_120737.jpg" width="600">
 
@@ -17,6 +21,7 @@ This is a fully modular CNC controller that runs [Grbl_ESP32](https://github.com
   - Trinamic SPI type driver modules. These are the ultra quiet{✪electrically?} types with sensorless endstop capability
   - External Driver with 5V opto isolators
 - (5) **CNC I/O Module Sockets** that provide interface access to your machine. Types include, but are not limited to, switch inputs, spindle control, and accessory control. Currently there are (9) modules available, listed [here](https://github.com/Longus/6-Pack_CNC_Controller/wiki/CNC-I-O-Module-List/ "CNC-I-O-Module-List")
+- (1) MicroSD card slot
 
 For more detail, see the [Wiki](https://github.com/Longus/6-Pack_CNC_Controller/wiki)
 
