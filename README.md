@@ -22,7 +22,7 @@ This is a fully modular CNC controller that runs [Grbl_ESP32](https://github.com
   - External Driver with 5V opto isolators
 - (5) **CNC I/O Module Sockets** that provide interface access to your machine. Types include, but are not limited to, switch inputs, spindle control, and accessory control. Currently there are (9) modules available, listed [here](https://github.com/Longus/6-Pack_CNC_Controller/wiki/CNC-I-O-Module-List/ "CNC-I-O-Module-List")
 - (1) MicroSD card slot
-- (1) 5v power supply
+- (1) 5v DC power supply
 
 For more detail, see the [Wiki](https://github.com/Longus/6-Pack_CNC_Controller/wiki) and the video [A New Universal CNC Controller for Grbl_ESP32](https://www.youtube.com/watch?v=IMwXUbWLic0).
 
